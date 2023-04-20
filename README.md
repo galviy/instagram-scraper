@@ -7,3 +7,4 @@ instagram's `api` can be replaced at any time, it means this tool only works wit
 # instalation
 
 `npm i node-fetch`
+`node insta.js`
